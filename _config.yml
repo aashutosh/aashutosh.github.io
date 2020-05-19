@@ -1,1 +1,16 @@
+title: Aashutosh Kalyankar
+email: hi@aashu.net
+description: >- # this means to ignore newlines until "baseurl:"
+  This is a Personal Website for Aashutosh Kalyankar
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "aashutosh.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+github_username: aashutosh
+
+homeURL: /index.html
+projectsURL: /index.html
+
+repository: aashutosh/aashutosh.github.io
+
+# Build settings
 theme: jekyll-theme-minimal
+
