@@ -14,6 +14,6 @@ github_username: aashutosh
 #repository: aashutosh/aashutosh.github.io
 
 # Build settings
-theme: minima
+theme: jekyll-theme-modernist
 show_excerpts: true # set to false to remove excerpts on homepaage
 
